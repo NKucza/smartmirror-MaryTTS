@@ -1,3 +1,12 @@
+/**
+ * @file smartmirror-MaryTTS.js
+ *
+ * @author nkucza
+ * @license MIT
+ *
+ * @see  https://github.com/NKucza/smartmirror-MaryTTS
+ */
+
 Module.register('smartmirror-MaryTTS',{
 
 	defaults: {
