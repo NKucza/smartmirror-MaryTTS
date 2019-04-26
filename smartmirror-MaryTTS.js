@@ -1,13 +1,11 @@
-/* global Module */
-
-/* Magic Mirror
- * Module: MMM-Facial-Recognition
+/**
+ * @file smartmirror-MaryTTS.js
  *
- * By Paul-Vincent Roll http://paulvincentroll.com
- * MIT Licensed.
+ * @author nkucza
+ * @license MIT
+ *
+ * @see  https://github.com/NKucza/smartmirror-MaryTTS
  */
-
-
 
 Module.register('smartmirror-MaryTTS',{
 
